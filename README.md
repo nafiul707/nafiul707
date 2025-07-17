@@ -88,10 +88,12 @@ Strong foundation in Python, statistics, and model development. Passionate about
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-nafiul7islam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiul7islam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nafiul707-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafiul707)
+[![Email](https://img.shields.io/badge/Email-nafiul7islam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafiul7islam@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nafiul707-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafiul707)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-nafiul707-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nafiul707)
 
 </div>
+
 
 ---
 
