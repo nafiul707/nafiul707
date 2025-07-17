@@ -10,7 +10,7 @@
 
 </div>
 
-Machine Learning and Data Science enthusiast currently pursuing Computer Science at AIUB.  
+Machine Learning and Data Science enthusiast currently pursuing Computer Science at [AIUB](https://www.aiub.edu/).  
 Strong foundation in Python, statistics, and model development. Passionate about uncovering insights through data and applying ML to solve real-world problems.
 
 ---
