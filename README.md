@@ -2,7 +2,7 @@
 
 # Nafiul Islam
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Building+Scalable+Applications;CSE+Student+at+AIUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Intelligent+Applications;CSE+Student+at+AIUB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nafiul707&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/nafiul707?label=Followers&style=social)](https://github.com/nafiul707?tab=followers)
@@ -10,10 +10,12 @@
 
 </div>
 
-Aspiring **Software Engineer** currently pursuing Computer Science at **AIUB**.  
-I am passionate about building **scalable software, full-stack applications, and efficient backend systems**.  
+Aspiring **Software Engineer** and **AI Enthusiast** currently pursuing Computer Science at **AIUB**.  
+I am passionate about building **scalable full-stack applications** and exploring the rapidly growing world of **Large Language Models (LLMs) and Generative AI**.
 
-My interests lie in **software development, system design, and solving real-world problems through technology**. I enjoy building projects end-to-end — from designing interactive user interfaces to developing robust APIs and backend services.
+My interests span **software development, system design, and AI-powered application development** — from designing interactive user interfaces to building robust backend APIs and integrating intelligent LLM capabilities into real-world products.
+
+> *"The most exciting AI applications are built by engineers who understand both systems and intelligence."*
 
 ---
 
@@ -45,6 +47,13 @@ My interests lie in **software development, system design, and solving real-worl
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🤖 AI / LLM (Learning & Exploring)
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+
 ### Developer Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -62,6 +71,7 @@ My interests lie in **software development, system design, and solving real-worl
 |--------|------------|-------------|
 | **🌐 Full Stack Web Application** | React • Node.js • MongoDB | A complete full-stack application with authentication and REST APIs |
 | **📊 Task Management System** | JavaScript • Express • PostgreSQL | A productivity app for managing tasks and workflows |
+| **🤖 LLM-Powered App** *(in progress)* | Python • LangChain • OpenAI API | Experimenting with RAG pipelines and LLM integrations |
 | **🧠 Algorithm Practice Repository** | C++ • Python | A collection of algorithms and problem-solving exercises |
 
 </div>
@@ -72,12 +82,29 @@ My interests lie in **software development, system design, and solving real-worl
 
 <div align="center">
 
-| 🔄 **Current Focus** | 🚀 **Exploration** | 💡 **Future Direction** |
-|:--------------------:|:-----------------:|:----------------------:|
-| Software Development Fundamentals | Full-Stack Application Development | Scalable Software Architecture |
-| Building Personal Software Projects | Backend APIs & Databases | Distributed Systems & System Design |
+| 💻 **Software Engineering** | 🤖 **AI & LLM Exploration** | 🚀 **Future Direction** |
+|:---------------------------:|:---------------------------:|:----------------------:|
+| Full-Stack Application Development | LLM API Integration (OpenAI, Claude) | AI-Powered Full-Stack Products |
+| Backend APIs & Databases | Prompt Engineering & RAG Pipelines | Scalable Software Architecture |
+| Software Development Fundamentals | Exploring Agentic AI Systems | AI Application Development |
 
 </div>
+
+---
+
+# 🤖 Why AI + Software Engineering?
+
+The most in-demand tech roles in 2026 sit at the **intersection of software engineering and AI**. Here's what I'm focused on:
+
+| 🔥 Area | 📌 Why It Matters |
+|--------|------------------|
+| **LLM Integration** | #1 most in-demand AI skill — building apps powered by GPT, Claude, LLaMA |
+| **RAG Pipelines** | Connecting LLMs to real data sources for accurate, grounded AI apps |
+| **Prompt Engineering** | Engineering reliable, production-ready LLM interactions |
+| **Agentic AI** | Building autonomous AI agents — one of the fastest-growing new roles |
+| **Full-Stack + AI** | Delivering end-to-end intelligent applications from UI to model |
+
+> *I believe the future belongs to engineers who can build software AND make it intelligent.*
 
 ---
 
@@ -113,6 +140,6 @@ My interests lie in **software development, system design, and solving real-worl
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-*Building scalable software and learning something new every day.*
+*Building scalable software, integrating AI, and learning something new every day.*
 
 </div>
