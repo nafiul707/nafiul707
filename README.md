@@ -358,77 +358,48 @@ mindmap
 
 ---
 
-## Developer Showcase
-
-<div align="center">
-
-### 🏆 GitHub Trophy Cabinet
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nafiul707&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
-
-<br>
-
-### 💭 Developer Quote
-
-<img width="75%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br>
-
-### ⚙️ My Build Cycle
-
-</div>
-
-```text
-      IDEA
-       │
-       ▼
-  DESIGN & PLAN
-       │
-       ▼
-   BUILD SOFTWARE
-       │
-       ├───────────────┐
-       ▼               ▼
-  CONNECT DATA     TRAIN MODEL
-       │               │
-       └───────┬───────┘
-               ▼
-       TEST • EVALUATE
-               │
-               ▼
-        IMPROVE • DEPLOY
-               │
-               └──────────► LEARN • REPEAT
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/CREATE-BUILD-1F6FEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TEST-LEARN-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IMPROVE-REPEAT-0EA5E9?style=for-the-badge" />
-
-</div>
-
----
 
 ## GitHub Pulse
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Live+GitHub+Activity+Dashboard;Tracking+Code%2C+Consistency%2C+and+Growth;Building+Software+and+Computer+Vision+Projects)](https://git.io/typing-svg)
 
 <br>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=nafiul707&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiul707&theme=github_dark" />
+
+<br><br>
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Performance" />
+
+<img height="185em" src="https://streak-stats.demolab.com?user=nafiul707&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<br><br>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul707&theme=github_dark" />
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiul707&theme=github_dark" />
+
+<br><br>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiul707&theme=github_dark" />
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiul707&theme=github_dark&utcOffset=6" />
+
+<br><br>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&area_color=1F6FEB&custom_title=Contribution%20Activity" />
 
 <br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB" />
+<img src="https://img.shields.io/badge/CODE-BUILDING-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/RESEARCH-EXPLORING-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/PROGRESS-CONTINUOUS-0EA5E9?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
+---
 ---
 
 ## Let's Connect
