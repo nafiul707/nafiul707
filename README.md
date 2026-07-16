@@ -367,73 +367,38 @@ mindmap
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nafiul707&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/nafiul707?tab=followers">
-  <img src="https://img.shields.io/github/followers/nafiul707?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="GitHub followers" />
-</a>
-<a href="https://github.com/nafiul707?tab=repositories">
-  <img src="https://img.shields.io/github/stars/nafiul707?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=0EA5E9&logo=github" alt="GitHub stars" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=nafiul707&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/nafiul707?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github)](https://github.com/nafiul707?tab=followers)
+[![Stars](https://img.shields.io/github/stars/nafiul707?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=0EA5E9&logo=github)](https://github.com/nafiul707?tab=repositories)
 
 <br><br>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-    alt="Nafiul's GitHub statistics"
-  />
-</picture>
+[![Nafiul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)](https://github.com/nafiul707)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=default&hide_border=true&langs_count=8"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most used programming languages"
-  />
-</picture>
+<br>
 
-<br><br>
+[![Nafiul's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiul707&theme=tokyonight)](https://github.com/nafiul707)
 
-<img
-  width="74%"
-  src="https://streak-stats.demolab.com?user=nafiul707&theme=tokyonight&hide_border=true&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF"
-  alt="GitHub contribution streak"
-/>
+<br>
+
+[![Most Used Programming Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul707&theme=tokyonight)](https://github.com/nafiul707?tab=repositories)
+[![Most Committed Programming Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiul707&theme=tokyonight)](https://github.com/nafiul707?tab=repositories)
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nafiul707&theme=tokyonight&hide_border=true&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
-<details>
-<summary><b>📈 Open Contribution Activity</b></summary>
-<br>
+### Languages & Technologies
 
 <div align="center">
 
-<img
-  width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=tokyo-night&hide_border=true&area=true&custom_title=Nafiul%27s%20Contribution%20Activity"
-  alt="GitHub contribution activity graph"
-/>
+[![Languages and Technologies](https://skillicons.dev/icons?i=python,js,cpp,cs,html,css,react,nextjs,nodejs,dotnet,pytorch,opencv,mongodb,postgres&theme=dark&perline=14)](https://skillicons.dev)
 
 </div>
 
-</details>
+> The language cards are calculated from public GitHub repositories. The technology icon row remains visible as a fallback display of the tools used in my software and computer vision work.
 
 ---
 
