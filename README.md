@@ -363,43 +363,78 @@ mindmap
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Live+GitHub+Activity+Dashboard;Tracking+Code%2C+Consistency%2C+and+Growth;Building+Software+and+Computer+Vision+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Live+GitHub+Activity;Tracking+Code%2C+Consistency%2C+and+Growth;Software+Engineering+%2B+Computer+Vision)](https://git.io/typing-svg)
 
 <br>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiul707&theme=github_dark" />
+<img src="https://komarev.com/ghpvc/?username=nafiul707&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile views" />
+<a href="https://github.com/nafiul707?tab=followers">
+  <img src="https://img.shields.io/github/followers/nafiul707?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github" alt="GitHub followers" />
+</a>
+<a href="https://github.com/nafiul707?tab=repositories">
+  <img src="https://img.shields.io/github/stars/nafiul707?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=0EA5E9&logo=github" alt="GitHub stars" />
+</a>
 
 <br><br>
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=github_dark&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&custom_title=GitHub%20Performance" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=nafiul707&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="Nafiul's GitHub statistics"
+  />
+</picture>
 
-<img height="185em" src="https://streak-stats.demolab.com?user=nafiul707&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=default&hide_border=true&langs_count=8"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafiul707&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
+  />
+</picture>
 
 <br><br>
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiul707&theme=github_dark" />
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiul707&theme=github_dark" />
-
-<br><br>
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiul707&theme=github_dark" />
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiul707&theme=github_dark&utcOffset=6" />
-
-<br><br>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&area_color=1F6FEB&custom_title=Contribution%20Activity" />
-
-<br>
-
-<img src="https://img.shields.io/badge/CODE-BUILDING-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/RESEARCH-EXPLORING-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/PROGRESS-CONTINUOUS-0EA5E9?style=for-the-badge&logo=git&logoColor=white" />
+<img
+  width="74%"
+  src="https://streak-stats.demolab.com?user=nafiul707&theme=tokyonight&hide_border=true&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
----
+<details>
+<summary><b>📈 Open Contribution Activity</b></summary>
+<br>
+
+<div align="center">
+
+<img
+  width="96%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=tokyo-night&hide_border=true&area=true&custom_title=Nafiul%27s%20Contribution%20Activity"
+  alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+</details>
+
 ---
 
 ## Let's Connect
