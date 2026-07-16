@@ -2,7 +2,7 @@
 
 # Nafiul Islam
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+LLM+Enthusiast;Building+Intelligent+Applications;CSE+Student+at+AIUB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Machine+Learning+%26+Computer+Vision+Enthusiast;Building+Intelligent+Software+Systems;CSE+Student+at+AIUB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nafiul707&color=58A6FF&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/nafiul707?label=Followers&style=social)](https://github.com/nafiul707?tab=followers)
@@ -10,12 +10,13 @@
 
 </div>
 
-Aspiring **Software Engineer** and **AI Enthusiast** currently pursuing Computer Science at **AIUB**.
-I am passionate about building **scalable full-stack applications** and exploring the rapidly growing world of **Large Language Models (LLMs) and Generative AI**.
+I am an aspiring **Software Engineer**, **Full-Stack Developer**, and **Machine Learning enthusiast** currently pursuing Computer Science at **AIUB**.
 
-My interests span **software development, system design, and AI-powered application development** — from designing interactive UIs to building robust backend APIs and integrating intelligent LLM capabilities into real-world products.
+I enjoy building complete software solutions using **HTML, CSS, JavaScript, modern frontend frameworks, backend technologies, APIs, and databases**. Alongside software development, I am actively working on **Machine Learning and Computer Vision**, including image classification, segmentation, visual anomaly detection, deep-learning experiments, and research-oriented model evaluation.
 
-> *"The most impactful applications are built by engineers who understand both systems and intelligence."*
+My long-term goal is to combine **software engineering and intelligent vision systems** to build reliable, scalable, and practical AI-powered products.
+
+> *"The most impactful intelligent systems are built by engineers who understand both software and machine learning."*
 
 ---
 
@@ -25,13 +26,13 @@ My interests span **software development, system design, and AI-powered applicat
 
 ### 🔤 Programming Languages
 
-| Language | Proficiency | Use Case |
-|----------|-------------|----------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | `████████░░` 82% | Scripting · AI/ML Pipelines · Automation |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** | `███████░░░` 70% | DSA · Competitive Programming · Systems |
+| Language | Proficiency | Primary Use |
+|----------|-------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | `████████░░` 82% | Machine Learning · Computer Vision · Automation · Backend |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `████████░░` 78% | Frontend · Node.js · APIs · Web Applications |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** | `███████░░░` 70% | DSA · Competitive Programming · Problem Solving |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | `██████░░░░` 65% | Queries · Schema Design · Relational Databases |
 | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) **C# / .NET** | `█████░░░░░` 55% | OOP · ASP.NET Core · Web APIs |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | `████████░░` 78% | ES6+ · Async · DOM · Node.js |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | `██████░░░░` 65% | Queries · Schema Design · Joins |
 
 <br>
 
@@ -49,8 +50,10 @@ My interests span **software development, system design, and AI-powered applicat
 
 | Skill | Details |
 |-------|---------|
-| **HTML5 / CSS3** | Semantic markup · Responsive design · Flexbox · CSS Grid |
-| **React.js** | Functional components · Hooks · State management · SPA architecture |
+| **HTML5** | Semantic markup · Forms · Accessibility basics · Structured layouts |
+| **CSS3** | Responsive design · Flexbox · CSS Grid · Animations |
+| **JavaScript** | ES6+ · DOM manipulation · Async programming · API integration |
+| **React.js** | Components · Hooks · State management · SPA development |
 | **Next.js** | App Router · SSR · SSG · API routes |
 
 <br>
@@ -68,8 +71,10 @@ My interests span **software development, system design, and AI-powered applicat
 
 | Skill | Details |
 |-------|---------|
-| **Node.js + Express** | REST API design · Middleware · JWT Auth · MVC pattern |
-| **ASP.NET Core (C#)** | Web APIs · MVC · Entity Framework · .NET ecosystem |
+| **Node.js + Express** | REST APIs · Middleware · Authentication · MVC architecture |
+| **ASP.NET Core** | Web APIs · MVC · Entity Framework · .NET ecosystem |
+| **API Development** | CRUD operations · Validation · Error handling · JSON-based services |
+| **Authentication** | JWT-based authentication · Protected routes · Role-based access concepts |
 
 <br>
 
@@ -85,11 +90,49 @@ My interests span **software development, system design, and AI-powered applicat
 | Database | Type | Details |
 |----------|------|---------|
 | **MongoDB** | NoSQL | Document model · Atlas · Aggregation pipelines |
-| **PostgreSQL** | Relational | Joins · Indexing · Transactions · ACID compliance |
+| **PostgreSQL** | Relational | Joins · Indexing · Transactions · Schema design |
 
 <br>
 
-### 🤖 AI / LLM Stack *(Actively Learning)*
+### 🧠 Machine Learning & Computer Vision
+
+<div align="center">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
+
+| Area | Current Work / Skills |
+|------|------------------------|
+| **Machine Learning** | Data preprocessing · Feature preparation · Model training · Validation |
+| **Deep Learning** | CNNs · Transfer learning · ResNet-based experiments · Vision Transformers |
+| **Computer Vision** | Image classification · Segmentation · Visual anomaly detection |
+| **Industrial Vision** | Zero-shot and few-shot anomaly detection · Defect localization |
+| **Vision-Language Models** | CLIP-based visual understanding · Prompt-guided anomaly analysis |
+| **Image Processing** | OpenCV · Resizing · Normalization · Augmentation · Noise analysis |
+| **Evaluation** | Accuracy · Precision · Recall · F1-score · AUROC · Confusion matrices |
+| **Experimentation** | PyTorch training pipelines · GPU notebooks · Reproducible comparisons |
+
+<br>
+
+### 🔬 Current Computer Vision Interests
+
+- Industrial anomaly detection and defect localization
+- Zero-shot and few-shot visual learning
+- Vision-language models for image understanding
+- Image classification and semantic segmentation
+- Reliable memory and prototype refinement
+- Model robustness, explainability, and cross-dataset evaluation
+- Deploying computer vision models inside practical software systems
+
+<br>
+
+### 🤖 AI / LLM Development *(Actively Learning)*
 
 <div align="center">
 
@@ -102,22 +145,24 @@ My interests span **software development, system design, and AI-powered applicat
 
 | Skill | Details |
 |-------|---------|
-| **LLM API Integration** | OpenAI GPT-4 · Anthropic Claude · Local models via Ollama |
-| **LangChain** | Chains · Agents · Memory · Tool use |
-| **RAG Pipelines** | Retrieval-augmented generation · Vector databases · Semantic search |
-| **Prompt Engineering** | Few-shot · Chain-of-thought · System prompts · Output parsing |
-| **Agentic AI** | Multi-agent systems · Autonomous workflows · Tool-using agents |
-| **Hugging Face** | Transformers · Inference API · Open-source LLMs |
+| **LLM API Integration** | Integrating hosted and local language models into applications |
+| **LangChain** | Chains · Agents · Memory · Tool integration |
+| **RAG Pipelines** | Document retrieval · Vector search · Context-aware generation |
+| **Prompt Engineering** | Structured prompts · Few-shot prompting · Output formatting |
+| **Hugging Face** | Transformers · Model exploration · Open-source AI tools |
 
 <br>
 
-### 🔧 Developer Tools & Workflow
+### 🔧 Developer & Research Tools
 
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -126,17 +171,19 @@ My interests span **software development, system design, and AI-powered applicat
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects & Research
 
 <div align="center">
 
 | Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **🌐 Full Stack Web App** | React · Node.js · Express · MongoDB | End-to-end app with JWT auth, REST API, and responsive UI |
-| **📊 Task Management System** | JavaScript · Express · PostgreSQL | Productivity app with task CRUD, workflow management, and DB relations |
-| **🤖 LLM-Powered App** *(in progress)* | Python · LangChain · OpenAI API · RAG | AI assistant with retrieval-augmented generation over custom documents |
-| **🧠 Algorithm Repository** | C++ · Python | Curated DSA solutions and competitive programming exercises |
-| **⚙️ .NET API Project** *(in progress)* | C# · ASP.NET Core · PostgreSQL | RESTful Web API built with the .NET ecosystem and Entity Framework |
+|---------|------------|-------------|
+| **🌐 Full-Stack Web Application** | HTML · CSS · JavaScript · React · Node.js · MongoDB | End-to-end web application with a responsive interface, REST API, database integration, and authentication |
+| **📊 Task Management System** | JavaScript · Express · PostgreSQL | Productivity application with CRUD operations, workflow management, and relational database support |
+| **🔍 Industrial Anomaly Detection Research** *(in progress)* | Python · PyTorch · OpenCV · CLIP · ViT | Research-oriented computer vision work on zero-shot defect detection, anomaly localization, and reliable memory/prototype refinement |
+| **🧬 Histopathology Image Analysis** *(in progress)* | Python · PyTorch · ResNet50 · Computer Vision | Image-classification experiments focused on visual features, robustness, model comparison, and external validation |
+| **🤖 LLM-Powered Application** *(in progress)* | Python · LangChain · LLM APIs · RAG | AI assistant that retrieves information from custom documents and generates context-aware responses |
+| **⚙️ .NET API Project** *(in progress)* | C# · ASP.NET Core · PostgreSQL | RESTful API developed with ASP.NET Core, Entity Framework, and a relational database |
+| **🧠 Algorithms & Problem Solving** | C++ · Python | Data structures, algorithms, and competitive-programming practice |
 
 </div>
 
@@ -146,28 +193,41 @@ My interests span **software development, system design, and AI-powered applicat
 
 <div align="center">
 
-| 💻 Software Engineering | 🤖 AI & LLM | 🚀 Direction |
-|:-----------------------:|:-----------:|:------------:|
-| Full-stack app development | LLM API integration | AI-powered products |
-| REST API design & architecture | RAG pipelines & vector search | Scalable software systems |
-| Backend with Node.js & .NET / C# | Prompt engineering & agents | Distributed systems |
-| Relational & NoSQL databases | Agentic AI workflows | MLOps & LLMOps |
+| 💻 Software Engineering | 🧠 ML & Computer Vision | 🚀 Long-Term Direction |
+|:-----------------------:|:----------------------:|:----------------------:|
+| Full-stack web development | Image classification | AI-powered software products |
+| Frontend frameworks | Image segmentation | Intelligent visual systems |
+| REST API development | Industrial anomaly detection | Applied ML engineering |
+| Backend architecture | Vision-language models | Scalable model deployment |
+| SQL and NoSQL databases | Robust model evaluation | MLOps and research engineering |
 
 </div>
 
 ---
 
-## 💡 Why Software + AI?
+## 🔗 Software Engineering + Computer Vision
 
-> The most in-demand tech roles in 2026 sit at the **intersection of software engineering and AI**.
+I am especially interested in projects where software engineering and machine learning work together:
 
-| 🔥 Area | 📌 Market Signal |
-|--------|-----------------|
-| **LLM Integration** | #1 most in-demand AI skill — 57K+ active job listings globally |
-| **RAG Pipelines** | Core to every production AI product connecting models to real data |
-| **Prompt Engineering** | Demand grew 135%+ year-over-year — now a production-critical skill |
-| **Agentic AI** | Fastest-growing new AI role category in 2025–2026 |
-| **C# / .NET Backend** | Dominant in enterprise; strong pairing with AI services and cloud |
+| Software Layer | Computer Vision Role |
+|----------------|----------------------|
+| **Frontend** | Upload images, display predictions, visualize heatmaps, and present analytics |
+| **Backend** | Serve models through APIs, process requests, and manage application logic |
+| **Database** | Store users, image metadata, experiment results, and prediction history |
+| **ML Pipeline** | Train, validate, compare, and improve computer vision models |
+| **Deployment** | Package models and integrate them into production-ready applications |
+
+---
+
+## 📚 Currently Improving
+
+- Advanced JavaScript, React, and Next.js
+- Backend architecture and API security
+- Machine-learning foundations and experiment design
+- PyTorch-based deep-learning workflows
+- Computer vision model training and evaluation
+- Zero-shot and vision-language-based anomaly detection
+- Model deployment, MLOps, and AI-powered web applications
 
 ---
 
@@ -203,6 +263,6 @@ My interests span **software development, system design, and AI-powered applicat
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-*Building scalable software · Integrating LLMs · Learning something new every day.*
+*Building scalable software · Exploring computer vision · Creating intelligent applications.*
 
 </div>
