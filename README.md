@@ -268,34 +268,146 @@ A growing collection of data structures, algorithms, and problem-solving exercis
 
 ---
 
-## Engineering × Intelligence
+## Mission Control
 
-```javascript
-const nafiul = {
-  softwareEngineering: [
-    "Frontend Development",
-    "Backend APIs",
-    "Database Design",
-    "Application Architecture"
-  ],
+<div align="center">
 
-  machineLearning: [
-    "Data Preparation",
-    "Model Training",
-    "Evaluation",
-    "Experimentation"
-  ],
+<img src="https://img.shields.io/badge/STATUS-BUILDING-58A6FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%2B%20VISION-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MODE-RESEARCH%20%26%20DEVELOPMENT-0EA5E9?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-  computerVision: [
-    "Classification",
-    "Segmentation",
-    "Anomaly Detection",
-    "Vision-Language Models"
-  ],
+</div>
 
-  direction: "Build intelligent software that solves real-world problems"
-};
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚧 Currently Building
+
+- Full-stack applications with modern JavaScript
+- RESTful APIs and structured backend services
+- ML-powered features for practical software
+- Interactive interfaces for model predictions
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Currently Researching
+
+- Industrial visual anomaly detection
+- Zero-shot and few-shot computer vision
+- Vision-language models and CLIP
+- Reliable memory and prototype refinement
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Currently Improving
+
+- React and Next.js architecture
+- PyTorch training pipelines
+- Model robustness and evaluation
+- Deployment and MLOps foundations
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Long-Term Mission
+
+Build reliable intelligent systems where:
+
+**Software Engineering + Machine Learning + Computer Vision**
+
+work together to solve real-world problems.
+
+</td>
+</tr>
+</table>
+
+```mermaid
+mindmap
+  root((Nafiul))
+    Software Engineering
+      Frontend
+        React
+        Next.js
+      Backend
+        Node.js
+        ASP.NET Core
+      Data
+        MongoDB
+        PostgreSQL
+    Machine Learning
+      Training
+      Validation
+      Deployment
+    Computer Vision
+      Classification
+      Segmentation
+      Anomaly Detection
+      Vision-Language Models
+    Research
+      Reliability
+      Generalisation
+      Efficiency
 ```
+
+---
+
+## Developer Showcase
+
+<div align="center">
+
+### 🏆 GitHub Trophy Cabinet
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nafiul707&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+
+<br>
+
+### 💭 Developer Quote
+
+<img width="75%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br>
+
+### ⚙️ My Build Cycle
+
+</div>
+
+```text
+      IDEA
+       │
+       ▼
+  DESIGN & PLAN
+       │
+       ▼
+   BUILD SOFTWARE
+       │
+       ├───────────────┐
+       ▼               ▼
+  CONNECT DATA     TRAIN MODEL
+       │               │
+       └───────┬───────┘
+               ▼
+       TEST • EVALUATE
+               │
+               ▼
+        IMPROVE • DEPLOY
+               │
+               └──────────► LEARN • REPEAT
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CREATE-BUILD-1F6FEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TEST-LEARN-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IMPROVE-REPEAT-0EA5E9?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -316,33 +428,6 @@ const nafiul = {
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nafiul707&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB" />
 
 </div>
-
----
-
-## Learning Roadmap
-
-```text
-Full-Stack Foundations
-        │
-        ├── Advanced React and Next.js
-        ├── Secure Backend Architecture
-        ├── Databases and System Design
-        │
-        ▼
-Machine Learning Foundations
-        │
-        ├── Training and Validation
-        ├── Deep Learning with PyTorch
-        ├── Computer Vision Pipelines
-        │
-        ▼
-Applied AI Engineering
-        │
-        ├── Model Serving
-        ├── MLOps
-        ├── Scalable Deployment
-        └── Intelligent Software Products
-```
 
 ---
 
