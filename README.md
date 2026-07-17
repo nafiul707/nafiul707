@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## What I Build
 
 <div align="center">
