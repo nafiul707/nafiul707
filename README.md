@@ -164,14 +164,6 @@ flowchart LR
 
 ---
 
----
-
----
-
----
-
----
-
 ## Mission Control
 
 <div align="center">
