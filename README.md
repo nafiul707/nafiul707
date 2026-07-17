@@ -29,32 +29,6 @@
 
 ---
 
-## `> whoami`
-
-```yaml
-name: Nafiul Islam
-role:
-  - Aspiring Software Engineer
-  - Full-Stack Developer
-  - Machine Learning & Computer Vision Enthusiast
-
-education: Computer Science and Engineering at AIUB
-
-building:
-  - Responsive web applications
-  - RESTful APIs and backend services
-  - AI-powered software
-  - Computer vision experiments
-
-currently_exploring:
-  - Industrial anomaly detection
-  - Image classification and segmentation
-  - Vision-language models
-  - Reliable memory and prototype refinement
-
-goal: Build practical software systems that connect modern engineering with intelligent vision
-```
-
 ---
 
 ## What I Build
@@ -63,68 +37,132 @@ goal: Build practical software systems that connect modern engineering with inte
 
 <img src="https://img.shields.io/badge/WEB-Modern%20Interfaces-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/BACKEND-APIs%20%26%20Services-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
-<img src="https://img.shields.io/badge/AI-Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/ML-Data%20Driven%20Systems-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/DL-Neural%20Networks-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
 <img src="https://img.shields.io/badge/VISION-Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
 
 </div>
 
 <br>
 
-### 🌐 Software Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I build responsive and scalable applications using modern frontend and backend technologies. My software work includes interface design, API development, authentication, database integration, and complete application workflows.
+### 🌐 Full-Stack Products
+
+I build complete web applications from interface to database.
+
+**What I work with:**
+
+- Responsive and accessible user interfaces
+- React and Next.js component-based applications
+- RESTful APIs with Node.js, Express, and ASP.NET Core
+- Authentication, validation, and structured backend logic
+- MongoDB and PostgreSQL integration
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+I design the systems that power reliable software products.
+
+**What I focus on:**
+
+- Clean API architecture
+- CRUD workflows and business logic
+- Secure authentication and protected routes
+- Database modelling and query optimisation
+- Maintainable and scalable code structure
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Machine Learning
 
-I work with data preprocessing, model training, validation, performance analysis, and reproducible experimentation using Python-based ML tools.
+I develop data-driven solutions and evaluate models beyond basic accuracy.
+
+**What I work on:**
+
+- Data preprocessing and feature preparation
+- Model training, validation, and comparison
+- Classification and prediction workflows
+- Performance analysis using precision, recall, F1, and AUROC
+- Reproducible experimentation with Python
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Deep Learning
+
+I work with neural networks for complex visual-learning tasks.
+
+**What I explore:**
+
+- CNN and ResNet-based architectures
+- Transfer learning and fine-tuning
+- Vision Transformers and CLIP-based models
+- Robustness under colour, noise, and domain shifts
+- GPU-based experiments using PyTorch
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 👁️ Computer Vision
 
-My computer vision interests include image classification, segmentation, industrial defect detection, anomaly localization, robustness analysis, and vision-language models.
+I build and study systems that understand visual data.
+
+**What I work on:**
+
+- Image classification and segmentation
+- Industrial defect and anomaly detection
+- Pixel-level anomaly localisation
+- Histopathology image analysis
+- Vision-language model applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Intelligent Software
+
+My main direction is combining software engineering with ML, DL, and computer vision.
+
+**The goal:**
+
+- Serve trained models through APIs
+- Build interfaces for predictions and visualisations
+- Connect models with databases and real workflows
+- Turn research prototypes into usable products
+- Create scalable AI-powered applications
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### From idea to intelligent product
+
+```mermaid
+flowchart LR
+    A[Product Idea] --> B[Frontend]
+    B --> C[Backend API]
+    C --> D[Database]
+    D --> E[ML / DL / CV Model]
+    E --> F[Prediction & Visualisation]
+    F --> G[Production-Ready Intelligent System]
+```
+
+</div>
 
 ---
-
-## Tech Universe
-
-### Languages
-
-<div align="center">
-
-[![Languages](https://skillicons.dev/icons?i=python,js,cpp,cs,sql&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,postgres&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Machine Learning & Computer Vision
-
-<div align="center">
-
-[![ML](https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,numpy,pandas&theme=dark)](https://skillicons.dev)
-
-</div>
-
-### Tools & Workflow
-
-<div align="center">
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ---
 
