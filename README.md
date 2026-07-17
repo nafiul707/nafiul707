@@ -166,25 +166,6 @@ flowchart LR
 
 ---
 
-## Current Focus
-
-```mermaid
-flowchart LR
-    A[Software Idea] --> B[Frontend]
-    B --> C[Backend API]
-    C --> D[Database]
-    D --> E[ML / CV Model]
-    E --> F[Prediction & Visualisation]
-    F --> G[Usable Intelligent Product]
-```
-
-- Building stronger foundations in **JavaScript, React, Next.js, Node.js, and API development**
-- Developing **PyTorch-based computer vision workflows**
-- Studying **zero-shot and few-shot industrial anomaly detection**
-- Exploring **CLIP and vision-language models**
-- Improving **model evaluation, robustness, and reproducibility**
-- Learning how to deploy ML models inside real software systems
-
 ---
 
 ## Computer Vision Lab
